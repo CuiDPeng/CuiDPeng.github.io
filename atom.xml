@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://cuidpeng.github.io/"/>
-  <updated>2020-04-03T01:17:28.806Z</updated>
+  <updated>2020-04-03T11:36:40.792Z</updated>
   <id>https://cuidpeng.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>练习</title>
+    <link href="https://cuidpeng.github.io/2020/04/03/%E7%BB%83%E4%B9%A0/"/>
+    <id>https://cuidpeng.github.io/2020/04/03/%E7%BB%83%E4%B9%A0/</id>
+    <published>2020-04-03T11:23:48.000Z</published>
+    <updated>2020-04-03T11:36:40.792Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="练习"><a href="#练习" class="headerlink" title="练习"></a>练习</h1><h2 id="第一次练习"><a href="#第一次练习" class="headerlink" title="第一次练习"></a>第一次练习</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;练习&quot;&gt;&lt;a href=&quot;#练习&quot; class=&quot;headerlink&quot; title=&quot;练习&quot;&gt;&lt;/a&gt;练习&lt;/h1&gt;&lt;h2 id=&quot;第一次练习&quot;&gt;&lt;a href=&quot;#第一次练习&quot; class=&quot;headerlink&quot; title=&quot;第一次练习&quot;&gt;&lt;/a&gt;第一次练
+      
+    
+    </summary>
+    
+    
+      <category term="前端" scheme="https://CuiDPeng.github.io/categories/%E5%89%8D%E7%AB%AF/"/>
+    
+    
+      <category term="导航" scheme="https://CuiDPeng.github.io/tags/%E5%AF%BC%E8%88%AA/"/>
+    
+      <category term="分享" scheme="https://CuiDPeng.github.io/tags/%E5%88%86%E4%BA%AB/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
